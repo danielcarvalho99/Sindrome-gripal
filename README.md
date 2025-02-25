@@ -44,10 +44,10 @@ This repository contains a data pipeline based on the medallion architecture for
 
 The data used in this project was obtained from the dados.gov.br portal at the following links:
 
-- [Notificações de Síndrome Gripal 2021](https://dados.gov.br/dados/conjuntos-dados/notificacoes-de-sindrome-gripal-leve-2021)  
-- [Notificações de Síndrome Gripal 2022](https://dados.gov.br/dados/conjuntos-dados/notificacoes-de-sindrome-gripal-leve-2022)  
-- [Notificações de Síndrome Gripal 2023](https://dados.gov.br/dados/conjuntos-dados/notificacoes-de-sindrome-gripal-leve-2023)  
-- [Notificações de Síndrome Gripal 2024](https://dados.gov.br/dados/conjuntos-dados/notificacoes-de-sindrome-gripal-leve-2024)
+- [Flu Syndrome Notifications 2021](https://dados.gov.br/dados/conjuntos-dados/notificacoes-de-sindrome-gripal-leve-2021)  
+- [Flu Syndrome Notifications 2022](https://dados.gov.br/dados/conjuntos-dados/notificacoes-de-sindrome-gripal-leve-2022)  
+- [Flu Syndrome Notifications 2023](https://dados.gov.br/dados/conjuntos-dados/notificacoes-de-sindrome-gripal-leve-2023)  
+- [Flu Syndrome Notifications 2024](https://dados.gov.br/dados/conjuntos-dados/notificacoes-de-sindrome-gripal-leve-2024)
 
 📂 Storage and Processing
 - Storage: Data is stored in Azure Data Lake Gen2.
